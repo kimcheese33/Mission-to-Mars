@@ -2,4 +2,4 @@
 
 ## Overview
 
-For this project, we built a web app showcasing Mars. To build the site, we scaped data from several Nasa site using Splinter and BeautifulSoup. Finally, we customized the site using Bootstrap.
+For this project, I built a web app showcasing Mars. To build the site, I used BeautifulSoup and Splinter to automated a web browser and scraped data from several Nasa sites. I then created a MongoDB database to store the data from the web scrape. Finally, I created a web app with Flask to display the data. I also utilized HTML/CSS and Bootstrap to customize the web app.
